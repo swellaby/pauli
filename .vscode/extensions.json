@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "LittleFoxTeam.vscode-python-test-adapter",
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "streetsidesoftware.code-spell-checker",
+    "guardrex.status-bar-tasks"
+  ],
+}

@@ -1,0 +1,36 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    ".coverage/": true,
+    ".testresults/": true,
+    "**/*.exe": true,
+    "dist/": true,
+    "build/": true,
+    "**/__pycache__/": true,
+    "**/*.egg-info/": true
+  },
+  "cSpell.enabled": true,
+  "cSpell.ignorePaths": [
+    "**/.git/**",
+    ".vscode",
+  ],
+  "cSpell.enabledLanguageIds": [
+    "asciidoc",
+    "html",
+    "markdown",
+    "plaintext",
+    "python",
+    "restructuredtext",
+    "text",
+    "yaml",
+    "yml"
+  ],
+  "cSpell.dictionaries": [
+    "companies",
+    "en_us",
+    "filetypes",
+    "misc",
+    "python",
+    "softwareTerms"
+  ]
+}
